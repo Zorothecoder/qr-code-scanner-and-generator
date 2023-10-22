@@ -66,7 +66,7 @@ const Scanner = () => {
                 content: data,
                 scanDate: dateOnly,
             }
-            axios.post('http://localhost:3001/qrcodes', scannedData).then((response) => {
+            axios.post('https://qr-scanner-jkzb.onrender.com/qrcodes', scannedData).then((response) => {
                 console.log('Scanned data sent successfully', response.data)
             }).catch((error) => {
                 console.error('Error sending scanned data', error)

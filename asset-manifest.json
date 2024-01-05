@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/qr-code-scanner-and-generator/static/css/main.47a7be03.css",
-    "main.js": "/qr-code-scanner-and-generator/static/js/main.0bcd04b4.js",
-    "static/js/787.4d5fa9ac.chunk.js": "/qr-code-scanner-and-generator/static/js/787.4d5fa9ac.chunk.js",
-    "index.html": "/qr-code-scanner-and-generator/index.html",
-    "main.47a7be03.css.map": "/qr-code-scanner-and-generator/static/css/main.47a7be03.css.map",
-    "main.0bcd04b4.js.map": "/qr-code-scanner-and-generator/static/js/main.0bcd04b4.js.map",
-    "787.4d5fa9ac.chunk.js.map": "/qr-code-scanner-and-generator/static/js/787.4d5fa9ac.chunk.js.map"
+    "main.css": "//zorothecoder.github.io/qr-code-scanner-and-generator/static/css/main.47a7be03.css",
+    "main.js": "//zorothecoder.github.io/qr-code-scanner-and-generator/static/js/main.3cd03e23.js",
+    "static/js/787.4d5fa9ac.chunk.js": "//zorothecoder.github.io/qr-code-scanner-and-generator/static/js/787.4d5fa9ac.chunk.js",
+    "index.html": "//zorothecoder.github.io/qr-code-scanner-and-generator/index.html",
+    "main.47a7be03.css.map": "//zorothecoder.github.io/qr-code-scanner-and-generator/static/css/main.47a7be03.css.map",
+    "main.3cd03e23.js.map": "//zorothecoder.github.io/qr-code-scanner-and-generator/static/js/main.3cd03e23.js.map",
+    "787.4d5fa9ac.chunk.js.map": "//zorothecoder.github.io/qr-code-scanner-and-generator/static/js/787.4d5fa9ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.47a7be03.css",
-    "static/js/main.0bcd04b4.js"
+    "static/js/main.3cd03e23.js"
   ]
 }
